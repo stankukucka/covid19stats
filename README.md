@@ -16,9 +16,13 @@ You can run a spider using the `scrapy crawl` command, such as:
 
     $ scrapy crawl covid19stats
     
-Or specify output file you would like to save to your crawled data
+If you want to save the scraped data to a file, you can pass the `-o` option to save data as CSV file:
 
     $ scrapy crawl covid19 -o covid19.csv
+    
+Or save data as a JSON file:
+
+    $ scrapy crawl covid19 -o covid19.json
 
 ## Deploy script to Cloud service
 Create scrapinghub service [Cloudera](https://scrapinghub.com/?rfsn=3908921.3359b4). Deploy via shub command. You can read all [tutorial here](https://support.scrapinghub.com/support/solutions/articles/22000204081-deploying-your-spiders-to-scrapy-cloud)
