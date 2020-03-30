@@ -1,5 +1,5 @@
 # Covid 19 stats 
-This is a Scrapy project to scrape data from the Worldometers page related to the Covid-19 Coronavirus pandemic page from https://www.worldometers.info/coronavirus/ (GitHub repo).
+This is a Scrapy project to scrape data from the Worldometers page related to the Covid-19 Coronavirus pandemic page at https://www.worldometers.info/coronavirus/ (GitHub repo).
 
 This project is meant for helping to set up regular crawling purposes.
 
