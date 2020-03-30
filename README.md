@@ -21,5 +21,4 @@ Or specify output file you would like to save to your crawled data
     $ scrapy crawl covid19 -o covid19.csv
 
 ## Deploy script to Cloud service
-Create scrapinghub service [Cloudera](https://scrapinghub.com/?rfsn=3908921.3359b4)
-And deploy via shub command. You can read all [tutorial here](https://support.scrapinghub.com/support/solutions/articles/22000204081-deploying-your-spiders-to-scrapy-cloud)
+Create scrapinghub service [Cloudera](https://scrapinghub.com/?rfsn=3908921.3359b4). Deploy via shub command. You can read all [tutorial here](https://support.scrapinghub.com/support/solutions/articles/22000204081-deploying-your-spiders-to-scrapy-cloud)
