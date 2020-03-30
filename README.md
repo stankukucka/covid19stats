@@ -14,4 +14,4 @@ and
 $ scrapy crawl something-css
 
 ## Deploy script to Cloud service
-Scrapinghub service [Cloudera]https://scrapinghub.com/?rfsn=3908921.3359b4
+Scrapinghub service [Cloudera](https://scrapinghub.com/?rfsn=3908921.3359b4)
