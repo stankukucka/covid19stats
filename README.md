@@ -5,13 +5,13 @@ This project is meant for helping to set up regular crawling purposes.
 
 ## How to run spider
 
-You can run a spider using the 'scrapy crawl' command, such as:
+You can run a spider using the `scrapy crawl` command, such as:
 
-$ scrapy crawl something-css
+  $ scrapy crawl something-css
 
 and
 
-$ scrapy crawl something-css
+  $ scrapy crawl something-css
 
 ## Deploy script to Cloud service
 Scrapinghub service [Cloudera](https://scrapinghub.com/?rfsn=3908921.3359b4)
